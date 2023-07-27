@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#ti1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 840px;
+    margin-bottom: 0px;
+    padding-top: 80px;
+    font-size: 27px;
+}
+
+#imagem{
+    float: left;
+    background-color: #724cf9;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: auto;
+}
+
+
+#fundo{
+    float: right;
+    margin-right: 160px;
+    margin-top: 10px;
+    background-color: #A9B23D;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 450px;
+    border-radius: 35px 35px 35px;
+}
+
+
+.campo input {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #660B00;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    background-color: transparent;
+    position: relative;
+    font-size: 20px;
+    height: 25px;
+    width: 320px;
+    border: 0px;
+    border-bottom: 2px solid #ffff;
+    outline: 0;
+}
+
+.campo label{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: #ffff;
+    margin-left: 40px;
+    
+}
+
+
+#campo4 input {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffff;
+    margin-bottom: 0px;
+    margin-top: 40px;
+    margin-left: 230px;
+    background-color: #660B00;
+    font-size: 20px;
+    height: 30px;
+    width: 120px;
+    border: 0px;
+    border-radius: 50px 50px 50px;
+}
